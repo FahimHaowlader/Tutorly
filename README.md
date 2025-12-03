@@ -1,53 +1,107 @@
-# Tutorly
+# 🌐 Language Exchange – Online Tutor Booking Platform
 
-**Short description :** Tutorly is a platfrom Here people can learn language or Earn money by teaching language .
+Language Exchange is a modern and user-friendly **online tutor booking platform** where users can find language tutors, explore categories, view detailed tutor profiles, and securely book sessions.  
+The platform aims to make language learning accessible globally through an organized, interactive, and seamless experience — similar to **Preply** and **iTalki**.
 
-## Key Features
+---
 
-**Curse Making :** Users can make a paid course very easily by add tutorials .
+## 🎯 Project Purpose  
+The purpose of this project is to demonstrate skills in **MERN Stack, Firebase Authentication, CRUD operations, JWT security, responsive UI design**, and overall full-stack application design.  
+It was built as part of an assignment focusing on **problem-solving, creativity, and production-ready app structure**.
 
-**Removing course  :**  User can delet their course from  My Tutorials .
+---
 
-**Update course :** User can update their course from  My Tutorials.
+## 🚀 Live Links  
+- **Live Website:** https://your-live-site.com  
+- **Client Repository:** https://github.com/yourname/client-repo  
+- **Server Repository:** https://github.com/yourname/server-repo  
 
-**Book course :** User can book a course from Find Tutors. 
+---
 
-**Course Details:** User can see the course details by the details button in  Find tutors. 
+## 🛠️ Technologies Used  
 
-**Course Review :** User can review the course very easily .They have to just clickthe the review button in My Booked Tutor . 
+### **Frontend**
+- React.js  
+- React Router  
+- Tailwind CSS  
+- DaisyUI / ShadCN (optional)  
+- Firebase Authentication  
+- Axios  
+- SweetAlert2  
 
+### **Backend**
+- Node.js  
+- Express.js  
+- MongoDB  
+- Mongoose  
+- JWT Authentication  
+- CORS  
 
-## Key Features
+### **Tools**
+- Vite  
+- Git & GitHub  
+- Netlify / Vercel (Client)  
+- Render / Vercel / Railway (Server)  
 
-**Curse Making :** Users can make a paid course very easily by add tutorials .
+---
 
-**Removing course  :**  User can delet their course from  My Tutorials .
+## ✨ Key Features  
 
-**Update course :** User can update their course from  My Tutorials.
+### 🔐 Authentication  
+- Email/Password Login  
+- Google Login  
+- JWT-based private routes  
+- Error handling on login & registration  
+- Profile picture + dropdown in navbar  
 
-**Book course :** User can book a course from Find Tutors. 
+### 🎓 Tutor Booking System  
+- Add Tutorials  
+- CRUD operations (Add, Update, Delete)  
+- Find tutors by category  
+- Filter & Search by language  
+- Tutor details with Book button  
+- User can book tutors & store bookings in DB  
+- Review system using **$inc** operator  
 
-**Course Details:** User can see the course details by the details button in  Find tutors. 
+### 🏡 Home Page  
+- Beautiful Banner/Carousel  
+- Stats Section (Tutors, Reviews, Languages, Users)  
+- 9+ Language Categories  
+- 2 Extra customized sections  
 
-**Course Review :** User can review the course very easily .They have to just clickthe the review button in My Booked Tutor . 
+### 📑 Other Features  
+- Responsive on **mobile, tablet, laptop**  
+- Fully protected private routes  
+- No redirecting back to login on refresh  
+- Error Page  
+- Loading Spinner  
+- Pagination on “Find Tutors” (optional)  
+- Dark / Light theme toggle  
 
+---
 
-## ES6 Features Used In This Project
+## 📦 Dependencies  
 
-**Fetch :** By using the fetch method we can easily import data from the programming hero database and use it as our pet adoption site.
-
-**Let and const :** By using let and const we have solved some major problem which are caused by var.
-
-**Arrow Function :** It is a shorthand of regular function and it is very easy to use and a useful tool .
-
-
-**Ternary operator :** we have used ternary operators in various places on our site . It is shorthand for the if else statement .
-
-**Foreach :** we have used this method many times to access all the information in a specific array .
-
-## Final Result
-**Live Link  :** Any one can visit the website by clicking  
-
-**Client site :** https://velvety-moxie-01f024.netlify.app/
-
-**Server Site :** https://vercel.com/jahids-projects-04bc2958/assigment-backend/7xeY6JRgZeyrMEY7oyxoy7VFP6Up 
+### **Client**
+```json
+"dependencies": {
+  "react": "",
+  "react-router-dom": "",
+  "firebase": "",
+  "axios": "",
+  "sweetalert2": "",
+  "react-icons": "",
+  "jwt-decode": "",
+  "tailwindcss": ""
+}
+```
+--- 
+## Clone the project 
+```
+git clone https://github.com/yourname/client-repo
+git clone https://github.com/yourname/server-repo
+```
+---
+## 🏁 Conclusion
+Language Exchange is a fully functional, secure, scalable, and beautifully designed language tutoring platform created with modern MERN technologies.
+It demonstrates real-world skills including authentication, CRUD, JWT, responsive UI, database design, and deployment.
