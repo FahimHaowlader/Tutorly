@@ -12,8 +12,7 @@ It was built as part of an assignment focusing on **problem-solving, creativity,
 ---
 
 ## 🚀 Live Links  
-- **Live Website:** [https://your-live-site.com](https://velvety-moxie-01f024.netlify.app/home)  
-  
+- **Live Website:** https://velvety-moxie-01f024.netlify.app/home
 
 ---
 
