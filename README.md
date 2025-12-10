@@ -13,7 +13,7 @@ It was built as part of an assignment focusing on **problem-solving, creativity,
 
 ## 🚀 Live Links  
 Check out the live version of HomeNest here:
-[**Tutorly Live Demo**]( https://homenests.netlify.app/home )
+[**Tutorly Live Demo**](https://velvety-moxie-01f024.netlify.app/home )
 ---
 
 ## 🛠️ Technologies Used  
